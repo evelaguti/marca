@@ -339,6 +339,50 @@ Disciplina
 Timming
 
 Importante: definir que quieres medir y adaptarlas según cambien tus objetivos
+## Tu portafolio es tu mejor curriculum
+---
+Cada perfil puede diseñarse a muchos estilos. Todo dependerá de lo que quieras proyectar.
+
+### Veamos 4 perfiles con su respectivo portafolio:
+
+**Programación** 💻
+
+**Diseño** 🎆
+
+**Marketing** ⭐️
+
+**Negocios** 💸
+
+Estos son los que más están vinculados con tecnología, directamente, sin embargo, cualquier perfil puede crear su marca personal con las bases que veremos aquí.
+Definamos qué necesita mostrar cada uno.
+
+### Programación
+Su portafolio de proyectos.
+- ¿Qué es lo que han desarrollado?
+- ¿En dónde puedo ver el código y el producto final?
+- ¿Open Source? ¿Trabajos personales?
+
+### Diseño
+Su portafolio de evidencias.
+
+- ¿Qué es lo que han diseñado y con qué clientes ó empresas?
+- ¿En qué plataformas están sus trabajos y el impacto que han tenido?
+- Así como en desarrollo, hay muchísimas especialidades en las cuales existirán ciertas redes sociales específicas en dónde mostrar el trabajo.
+
+### Marketing
+Su portafolio de experiencias.
+
+- ¿Qué campañas han liderado, ejecutado y los resultados?
+- ¿Con qué clientes ó empresas han trabajado?
+- ¿Qué tanto es su nivel de conocimiento en diferentes estrategias de distribución?
+
+### Negocios
+Su portafolio de experiencias.
+
+- ¿Qué empresas has creado ó dirigido?
+- ¿Qué tanto contenido creas sobre tu sector?
+- ¿Qué destrezas tienes en ventas, legal, administración y contabilidad, relacionadas plenamente con tu industria?
+
 
 ## Cómo llamar la atención de reclutadores
 ---
