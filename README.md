@@ -340,4 +340,71 @@ Timming
 
 Importante: definir que quieres medir y adaptarlas según cambien tus objetivos
 
+## Cómo llamar la atención de reclutadores
+---
 
+Tú no obtienes empleo porque no sabes cómo pedir empleo. Hace mucho tiempo que eso de agarrar un montón de impresiones de tu currículum vitae, tu hoja de vida, y repartirlo por todo lado: es inútil.
+
+La forma en la que tú consigues empleo es: teniendo una marca personal poderosa; creando proyectos personales uniendo tu marca personal a tus proyectos y poniéndolos en el sitio donde está tu portafolio; y, por último: investigando donde quieres trabajar, siendo ésta área en donde todo el mundo lo hace mal.
+
+La gran mayoría de las empresas tienen dos tipos de personas que son las que realmente te pueden contratar: los reclutadores y los líderes, siendo estos últimos los que tienen la última palabra porque les interesa conseguir más equipo para poder trabajar con él y descubrir talento.
+
+Siempre dependerá de la industria en donde se trabaje, ya que hay industrias en declive, como el petróleo, que no están contratando pero hay industrias en subida que están contratando, como la tecnología.
+
+Debes ser capaz de pivotar tu carrera para el mejor momento, dependiendo de la industria que esté en este momento en subida.
+
+¿Cómo sabes si una industria está en subida o en declive? Es fácil: mira en los clasificados qué tipo de industrias están buscando trabajadores. Las industrias que no aparezcan, probablemente estén en declive o ya están muertas. Si aparecen mucho, esa es una industria que vale la pena.
+
+Los clasificados no son un buen lugar para conseguir un empleo porque estás arrancando desde abajo. Los reclutadores casi nunca tienen poder. Los reclutadores ganan dinero cuando refieren a un candidato altamente calificado, y son básicamente un embudo que agarra todo el montón de hojas de vida intentando ver cuáles resaltan por encima del resto, ganando así un porcentaje a partir de lo que logren referir. El problema de ellos es que tienen incentivos desalineados con lo que tú estás tratando de buscar.
+
+El primer paso para triunfar con los reclutadores es, irónicamente: ignorarlos. Tienes que evadirlos y contactar directamente con la empresa en caso de que la empresa te interese.
+
+Hay reclutadores que valen la pena, pero son muy pequeños. Si un reclutador te causa confianza: trabaja con esa persona. Pero en general los reclutadores están ahí para ser un mando medio que está por otro lado.
+
+La forma más poderosa de conseguir una entrevista de trabajo en un lugar, es una intro: que alguien te presente con alguien dentro. Con que te logren presentar con la persona correcta ya tienes el 50% del trabajo hecho.
+
+>Las intros son las herramientas más poderosas para conseguir empleo.
+
+>Otra opción es averiguando el e-mail del CEO (Chief Executive Officer) y enviándole un correo.
+
+Busca pivotar o ubicarte en un lugar donde puedas explotar y tener éxito, y hazte la idea de que tu carrera va a pivotar a lo largo de la vida. Hazte la idea de que tú tienes que cambiar y adaptarte para triunfar.
+
+Es recomendable averiguar todo lo que sea posible de la empresa en la que deseas trabajar para el momento de la entrevista.
+
+No tengas miedo en llegar con sugerencias, no hay nada más atractivo que la confianza en ti mismo, y esto aplica para tu vida personal, para tu vida laboral y para todo en la vida.
+
+>Haz tu mejor esfuerzo asumiendo lo mejor de la gente.
+
+>No le tengas miedo en llegar con una propuesta.
+
+>Sé ambicioso, pero ten un componente de humildad.
+
+Si tú llegas con una propuesta, implica que sabes de la empresa, que te interesa, que tienes iniciativa y que estás listo a que desde tu primer día haya productividad completa. Si tú no tienes propuestas, no tienes nada que te resalte por encima del resto.
+
+Llegar con una propuesta es llegar con una marca de confianza, de iniciativa, de calidad, de trabajo y de profesionalismo.
+
+
+## Tips para obtener trabajo
+---
+**HUMILDAD + AMBICIÓN**
+- Indaga sobre la empresa a la cual te vas a postula
+- Quien eres -> Revisa cual ha sido tu experiencia anterior en entorno laboral
+- Revisa tu curriculum vitae -> que sea coherente
+- Se honesto
+- Aprovecha cada momento para resaltar que eres la persona ideal para el perfil solicitado
+- Si es grupal procura tomar la iniciativa, si no es el momento no adecuado para intervenir o lo hagas ya habrá momento
+- Tu Actitud -> Muestra agrado -> si vez que el puesto o la empresa no es de tu agrado no pierdas ni hagas perder tiempo
+- Contacto visual, permanente con el reclutador, un contacto modesto
+- Grábate antes de una entrevista.
+- Aprovecha cada intervención para mostrar que eres la persona adecuada para el perfil
+- Ordena tus ideas, explica de manera corta que hiciste, que aportes realizaste, cuál fue tu rol…
+- Tus áreas de mejora, si hubo fallas como se afrontó la situación adversa
+- Analiza cómo fue la experiencia en la entrevista, preguntas, que te falto, como puedo mejorar
+- Se Critico contigo mismo como puedo mejorar
+- Mas del 50% de las vacantes no están publicadas
+- Los Software que utiliza las empresas descartan un 50% antes que un reclutador vea tu CV
+- Estadísticas que busca un reclutador:
+    - 36% Habilidades multitarea
+    - 31% Iniciativa
+    - 21% Pensamiento Critico
+    - 12% Busca algo más en el candidato
