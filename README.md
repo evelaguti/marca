@@ -20,13 +20,13 @@ Lo primero que debes hacer para empezar a crear tu marca personal es identificar
 ---
 Tu marca personal puede tener diferentes puntos de contacto, lo importante es que en todos ellos tengas una personalidad uniforme y transmitas el mismo mensaje desde todas partes. Ten en cuenta que no puedes controlar el medio por el que alguien te va a conocer o se va a hacer una primera idea de quién eres. Toda tu actividad online es pública y las personas juzgarán a partir de eso.
 
-Facebook: 
+**Facebook**: 
 Un consejo básico, no tengas una cuenta personal de Facebook con personas que no conoces, más adelante verás cómo crear un Fan Page.
 
-Instagram:
+**Instagram**:
 Sirve para compartir experiencias, y sobre todo, el lugar en el que estás.
 
-LinkedIn:
+**LinkedIn**:
 Es una red social profesional que algunos aman y otros odian, pero la realidad es que en muchos sitios la gente ya no envía un currículum sino que utiliza su perfil de LinkedIn.
 
 Tu avatar es tu logo. Intenta que sea una foto en la que sea fácil reconocerte y que la puedas utilizar en todas las redes.
